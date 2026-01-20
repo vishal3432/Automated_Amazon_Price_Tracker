@@ -1,9 +1,3 @@
-# Automated_Amazon_Price_Tracker
-Done bhai 👍
-Yeh raha **⭐ short + clean GitHub README format** — **direct paste-ready** 👇
-
----
-
 # 🛒 Automated Amazon Price Tracker
 
 A Python-based script that tracks an Amazon product’s price and sends an **email alert** when the price drops below a target value.
