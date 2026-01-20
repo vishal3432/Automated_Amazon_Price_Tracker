@@ -71,9 +71,4 @@ python main.py
 
 * Amazon pages change frequently
 * Captcha may appear on live pages
-
 ---
-
-
-Agar bole bhai 😄
-main isko **aur bhi compact (5–6 lines)** ya **resume-specific README** me convert kar deta hoon 🔥
